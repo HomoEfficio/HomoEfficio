@@ -2,7 +2,7 @@
 
 ![HomoEfficio's github stats](https://github-readme-stats.vercel.app/api?username=HomoEfficio&show_icons=true&theme=merko)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HomoEfficio&repo=dev-tips&show_owner=true)](https://github.com/HomoEfficio/dev-tips)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HomoEfficio&repo=dev-tips&show_owner=true)](https://github.com/HomoEfficio/dev-tips)-->
 
 <!--
 **HomoEfficio/HomoEfficio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
